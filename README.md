@@ -10,20 +10,14 @@ We wanted to create an app that allows a user to research an area by having the 
 We created a visually pleasing and easy to use App.  A user can explore other users reviews of the area.
 [Link to App](https://project-2-group-5.herokuapp.com/)
 
-# Team Effort
-
-
-
 # Challenges
-
-Using a national zip code database with thousands of zipcodes would slow the execution of adding a review.  We had to narrow the zip code choices down to just the charlotte area for now.
-Researching and implementing a favicon was not a simple task to figure out.  It took trial and error.  In the end it was one line of code.
-
-
-# Improvements
+Using a national zip code database with thousands of zipcodes would slow the execution of adding a review.  We had to narrow the zip code choices down to just the charlotte area for now. Researching and implementing a favicon was not a simple task to figure out.  It took trial and error.  In the end it was one line of code.
 
 In the future we would like to implement an authentication process for residing in a zipcode.
-Additionally we would like to make the zip code selector an input area rather than a drop down.  
+Additionally we would like to make the zip code selector an input area rather than a drop down. 
 
+## Link to Deployed Site
+[Link to App](https://project-2-group-5.herokuapp.com/)
 
+## Image of Site
 ![Image of Greener Grass](public/img/greengrass2.gif)
